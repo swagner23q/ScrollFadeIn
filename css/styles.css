@@ -1,0 +1,13 @@
+.container {
+  height: 2000px;
+}
+
+.container div {
+  margin:50px;
+  padding:50px;
+  background-color:lightgreen;
+}
+
+.hideme {
+  opacity:0;
+}
